@@ -1,0 +1,36 @@
+footer .big {
+  border-radius: 32px;
+  background: #02897a;
+  width: 1110px;
+  height: 345px;
+  display: flex;
+  align-items: center;
+  column-gap: 158px;
+}
+footer .left h1 {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 151.4%;
+  margin-bottom: 80px;
+  width: 480px;
+}
+footer .left button {
+  color: #02897a;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 8px;
+  background: #fff;
+  padding: 13px 34px;
+  border: none;
+}
+footer .left button:hover {
+  background-color: #06423b;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+footer .big {
+  padding: 50px;
+  margin-bottom: 50px;
+}
